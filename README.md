@@ -1,6 +1,8 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training. This has been modified.
+Repo for the `GitHub Actions Fundamentals` training.
+
+I modified this file.
 
 ## 👉 Objectives
 
